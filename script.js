@@ -1,4 +1,4 @@
-const username = 'chamodperera';
+const username = 'akingbade675';
 const maxPages = 2;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
